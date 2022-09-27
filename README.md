@@ -25,3 +25,7 @@
     "react-native-multi-selectbox": "*",
     "react-native-safe-area-context": "3.3.2",
     "@react-navigation/material-bottom-tabs": "*"
+
+# Sample Output
+
+https://user-images.githubusercontent.com/102892250/192578924-349f31f0-f461-421d-b6e2-29e40bd3548b.mp4
