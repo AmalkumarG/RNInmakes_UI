@@ -1,11 +1,27 @@
-# Sample Snack app
+# Inmakes UI
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# Dependencies
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+  
+    "expo": "~44.0.0",
+    "expo-status-bar": "~1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "0.17.1",
+    "axios": "*",
+    "react-native-paper": "4.9.2",
+    "react-native-screens": "~3.10.1",
+    "react-native-firebase": "*",
+    "react-native-tab-view": "^3.0.0",
+    "@react-navigation/stack": "*",
+    "react-native-pager-view": "5.4.9",
+    "react-native-reanimated": "~2.3.1",
+    "@react-navigation/drawer": "*",
+    "@react-navigation/native": "*",
+    "react-native-vector-icons": "*",
+    "@react-native-picker/picker": "2.2.1",
+    "react-native-gesture-handler": "~2.1.0",
+    "react-native-multi-selectbox": "*",
+    "react-native-safe-area-context": "3.3.2",
+    "@react-navigation/material-bottom-tabs": "*"
